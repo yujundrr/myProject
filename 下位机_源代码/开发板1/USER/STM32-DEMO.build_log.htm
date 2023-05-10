@@ -1,0 +1,86 @@
+<html>
+<body>
+<pre>
+<h1>礦ision Build Log</h1>
+<h2>Tool Versions:</h2>
+IDE-Version: μVision V5.14.0.0
+Copyright (C) 2015 ARM Ltd and ARM Germany GmbH. All rights reserved.
+License Information: 软件安装管家 Microsoft, Microsoft, LIC=----
+ 
+Tool Versions:
+Toolchain:       MDK-Lite  Version: 5.14.0.0
+Toolchain Path:  F:\Keil MDK5\ARM\ARMCC\Bin
+C Compiler:      Armcc.exe V5.05 update 1 (build 106)
+Assembler:       Armasm.exe V5.05 update 1 (build 106)
+Linker/Locator:  ArmLink.exe V5.05 update 1 (build 106)
+Library Manager: ArmAr.exe V5.05 update 1 (build 106)
+Hex Converter:   FromElf.exe V5.05 update 1 (build 106)
+CPU DLL:         SARMCM3.DLL V5.14.0.0
+Dialog DLL:      DARMSTM.DLL V1.65.0.0
+Target DLL:      Segger\JL2CM3.dll V2.99.13.0
+Dialog DLL:      TARMSTM.DLL V1.64.0.0
+ 
+<h2>Project:</h2>
+C:\Users\201614040114\Desktop\下位机程序\恒电位仪（STM32F103C8T6）循环伏安法\USER\STM32-DEMO.uvproj
+Project File Date:  10/19/2020
+
+<h2>Output:</h2>
+Rebuild target 'ADC-DEMO'
+assembling startup_stm32f10x_hd.s...
+compiling main.c...
+main.c(26): warning:  #177-D: variable "pointcount" was declared but never referenced
+        double pointcount=0;  //总共的点数
+main.c(32): warning:  #177-D: variable "time" was declared but never referenced
+        float time=0;         //执行时间
+main.c(34): warning:  #177-D: variable "b" was declared but never referenced
+        unsigned long b;
+main.c(51): warning:  #177-D: variable "choose" was declared but never referenced
+        int  choose;
+main.c: 4 warnings, 0 errors
+compiling stm32f10x_it.c...
+compiling usart1.c...
+usart1.c(132): warning:  #167-D: argument of type "u8 *" is incompatible with parameter of type "const char *restrict"
+                        sscanf(USART1_RX,"%f",&TMP);  //TMP存储了转换来的float值
+usart1.c(133): warning:  #223-D: function "memset" declared implicitly
+                        memset(USART1_RX,0x00,1024);   //重置
+usart1.c(149): warning:  #167-D: argument of type "u8 *" is incompatible with parameter of type "const char *restrict"
+                        sscanf(USART1_RX,"%d",&Integer);
+usart1.c(150): warning:  #223-D: function "memset" declared implicitly
+                        memset(USART1_RX,0x00,1024);
+usart1.c: 4 warnings, 0 errors
+compiling adc.c...
+adc.c(102): warning:  #223-D: function "printf" declared implicitly
+        ADC_SPI2_ERROR("SPI等待超时！errorCode=%d",errorCode);
+adc.c(115): warning:  #550-D: variable "recieveData" was set but never used
+        unsigned char recieveData;    //收到的8bits数据
+adc.c(150): warning:  #550-D: variable "recieveData" was set but never used
+        unsigned char recieveData[9]={0};    //收到的数据
+adc.c(551): warning:  #223-D: function "printf" declared implicitly
+        printf("OFFSETreg data = %X \r\n",Offsetreg_value);
+adc.c(585): warning:  #223-D: function "printf" declared implicitly
+        printf("GAINreg data = %X \r\n",Gainreg_value);
+adc.c: 5 warnings, 0 errors
+compiling dac.c...
+compiling spi.c...
+spi.c(102): warning:  #223-D: function "printf" declared implicitly
+        DAC_SPI_ERROR("SPI等待超时！errorCode=%d",errorCode);
+spi.c(115): warning:  #550-D: variable "recieveData" was set but never used
+        unsigned char recieveData[4]={0};    //收到的数据
+spi.c: 2 warnings, 0 errors
+compiling afe.c...
+compiling timer.c...
+compiling stm32f10x_gpio.c...
+compiling stm32f10x_rcc.c...
+compiling stm32f10x_usart.c...
+compiling stm32f10x_spi.c...
+compiling misc.c...
+compiling stm32f10x_tim.c...
+compiling core_cm3.c...
+compiling system_stm32f10x.c...
+linking...
+Program Size: Code=21468 RO-data=648 RW-data=28 ZI-data=1540  
+FromELF: creating hex file...
+".\STM32-DEMO.axf" - 0 Error(s), 15 Warning(s).
+</pre>
+</body>
+</html>

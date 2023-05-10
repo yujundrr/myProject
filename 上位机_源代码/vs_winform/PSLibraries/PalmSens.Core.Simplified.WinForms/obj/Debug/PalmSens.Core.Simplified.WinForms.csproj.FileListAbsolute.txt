@@ -1,0 +1,13 @@
+E:\MyProject\PalmSens-SDK-for-WinForms-5.9 (1)\PalmSens SDK for WinForms 5.9\PSLibraries\PalmSens.Core.Simplified.WinForms\bin\Debug\PalmSens.Core.Simplified.WinForms.dll
+E:\MyProject\PalmSens-SDK-for-WinForms-5.9 (1)\PalmSens SDK for WinForms 5.9\PSLibraries\PalmSens.Core.Simplified.WinForms\bin\Debug\PalmSens.Core.Simplified.WinForms.pdb
+E:\MyProject\PalmSens-SDK-for-WinForms-5.9 (1)\PalmSens SDK for WinForms 5.9\PSLibraries\PalmSens.Core.Simplified.WinForms\bin\Debug\PalmSens.Core.dll
+E:\MyProject\PalmSens-SDK-for-WinForms-5.9 (1)\PalmSens SDK for WinForms 5.9\PSLibraries\PalmSens.Core.Simplified.WinForms\bin\Debug\PalmSens.Core.Simplified.dll
+E:\MyProject\PalmSens-SDK-for-WinForms-5.9 (1)\PalmSens SDK for WinForms 5.9\PSLibraries\PalmSens.Core.Simplified.WinForms\bin\Debug\PalmSens.Core.Windows.dll
+E:\MyProject\PalmSens-SDK-for-WinForms-5.9 (1)\PalmSens SDK for WinForms 5.9\PSLibraries\PalmSens.Core.Simplified.WinForms\bin\Debug\PalmSens.Core.Simplified.pdb
+E:\MyProject\PalmSens-SDK-for-WinForms-5.9 (1)\PalmSens SDK for WinForms 5.9\PSLibraries\PalmSens.Core.Simplified.WinForms\bin\Debug\PalmSens.Core.xml
+E:\MyProject\PalmSens-SDK-for-WinForms-5.9 (1)\PalmSens SDK for WinForms 5.9\PSLibraries\PalmSens.Core.Simplified.WinForms\bin\Debug\PalmSens.Core.Windows.xml
+E:\MyProject\PalmSens-SDK-for-WinForms-5.9 (1)\PalmSens SDK for WinForms 5.9\PSLibraries\PalmSens.Core.Simplified.WinForms\obj\Debug\PalmSens.Core.Simplified.WinForms.csproj.AssemblyReference.cache
+E:\MyProject\PalmSens-SDK-for-WinForms-5.9 (1)\PalmSens SDK for WinForms 5.9\PSLibraries\PalmSens.Core.Simplified.WinForms\obj\Debug\PalmSens.Core.Simplified.WinForms.csproj.CoreCompileInputs.cache
+E:\MyProject\PalmSens-SDK-for-WinForms-5.9 (1)\PalmSens SDK for WinForms 5.9\PSLibraries\PalmSens.Core.Simplified.WinForms\obj\Debug\PalmSens.Core.Simplified.WinForms.csproj.CopyComplete
+E:\MyProject\PalmSens-SDK-for-WinForms-5.9 (1)\PalmSens SDK for WinForms 5.9\PSLibraries\PalmSens.Core.Simplified.WinForms\obj\Debug\PalmSens.Core.Simplified.WinForms.dll
+E:\MyProject\PalmSens-SDK-for-WinForms-5.9 (1)\PalmSens SDK for WinForms 5.9\PSLibraries\PalmSens.Core.Simplified.WinForms\obj\Debug\PalmSens.Core.Simplified.WinForms.pdb

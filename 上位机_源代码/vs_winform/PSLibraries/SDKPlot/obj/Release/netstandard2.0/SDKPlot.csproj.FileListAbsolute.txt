@@ -1,0 +1,15 @@
+E:\MyProject\PalmSens-SDK-for-WinForms-5.9 (1)\PalmSens SDK for WinForms 5.9\PSLibraries\SDKPlot\bin\Release\netstandard2.0\SDKPlot.deps.json
+E:\MyProject\PalmSens-SDK-for-WinForms-5.9 (1)\PalmSens SDK for WinForms 5.9\PSLibraries\SDKPlot\bin\Release\netstandard2.0\SDKPlot.dll
+E:\MyProject\PalmSens-SDK-for-WinForms-5.9 (1)\PalmSens SDK for WinForms 5.9\PSLibraries\SDKPlot\bin\Release\netstandard2.0\SDKPlot.pdb
+E:\MyProject\PalmSens-SDK-for-WinForms-5.9 (1)\PalmSens SDK for WinForms 5.9\PSLibraries\SDKPlot\bin\Release\netstandard2.0\OxyPlot.dll
+E:\MyProject\PalmSens-SDK-for-WinForms-5.9 (1)\PalmSens SDK for WinForms 5.9\PSLibraries\SDKPlot\bin\Release\netstandard2.0\PalmSens.Core.dll
+E:\MyProject\PalmSens-SDK-for-WinForms-5.9 (1)\PalmSens SDK for WinForms 5.9\PSLibraries\SDKPlot\bin\Release\netstandard2.0\PalmSens.Core.Simplified.dll
+E:\MyProject\PalmSens-SDK-for-WinForms-5.9 (1)\PalmSens SDK for WinForms 5.9\PSLibraries\SDKPlot\bin\Release\netstandard2.0\PalmSens.Core.Simplified.pdb
+E:\MyProject\PalmSens-SDK-for-WinForms-5.9 (1)\PalmSens SDK for WinForms 5.9\PSLibraries\SDKPlot\bin\Release\netstandard2.0\PalmSens.Core.xml
+E:\MyProject\PalmSens-SDK-for-WinForms-5.9 (1)\PalmSens SDK for WinForms 5.9\PSLibraries\SDKPlot\bin\Release\netstandard2.0\OxyPlot.xml
+E:\MyProject\PalmSens-SDK-for-WinForms-5.9 (1)\PalmSens SDK for WinForms 5.9\PSLibraries\SDKPlot\obj\Release\netstandard2.0\SDKPlot.csproj.AssemblyReference.cache
+E:\MyProject\PalmSens-SDK-for-WinForms-5.9 (1)\PalmSens SDK for WinForms 5.9\PSLibraries\SDKPlot\obj\Release\netstandard2.0\SDKPlot.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyProject\PalmSens-SDK-for-WinForms-5.9 (1)\PalmSens SDK for WinForms 5.9\PSLibraries\SDKPlot\obj\Release\netstandard2.0\SDKPlot.csproj.CoreCompileInputs.cache
+E:\MyProject\PalmSens-SDK-for-WinForms-5.9 (1)\PalmSens SDK for WinForms 5.9\PSLibraries\SDKPlot\obj\Release\netstandard2.0\SDKPlot.csproj.CopyComplete
+E:\MyProject\PalmSens-SDK-for-WinForms-5.9 (1)\PalmSens SDK for WinForms 5.9\PSLibraries\SDKPlot\obj\Release\netstandard2.0\SDKPlot.dll
+E:\MyProject\PalmSens-SDK-for-WinForms-5.9 (1)\PalmSens SDK for WinForms 5.9\PSLibraries\SDKPlot\obj\Release\netstandard2.0\SDKPlot.pdb

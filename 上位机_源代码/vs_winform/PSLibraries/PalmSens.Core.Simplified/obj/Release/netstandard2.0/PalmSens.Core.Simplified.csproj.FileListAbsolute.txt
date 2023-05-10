@@ -1,0 +1,11 @@
+E:\MyProject\PalmSens-SDK-for-WinForms-5.9 (1)\PalmSens SDK for WinForms 5.9\PSLibraries\PalmSens.Core.Simplified\bin\Release\netstandard2.0\PalmSens.Core.Simplified.deps.json
+E:\MyProject\PalmSens-SDK-for-WinForms-5.9 (1)\PalmSens SDK for WinForms 5.9\PSLibraries\PalmSens.Core.Simplified\bin\Release\netstandard2.0\PalmSens.Core.Simplified.dll
+E:\MyProject\PalmSens-SDK-for-WinForms-5.9 (1)\PalmSens SDK for WinForms 5.9\PSLibraries\PalmSens.Core.Simplified\bin\Release\netstandard2.0\PalmSens.Core.Simplified.pdb
+E:\MyProject\PalmSens-SDK-for-WinForms-5.9 (1)\PalmSens SDK for WinForms 5.9\PSLibraries\PalmSens.Core.Simplified\bin\Release\netstandard2.0\PalmSens.Core.dll
+E:\MyProject\PalmSens-SDK-for-WinForms-5.9 (1)\PalmSens SDK for WinForms 5.9\PSLibraries\PalmSens.Core.Simplified\bin\Release\netstandard2.0\PalmSens.Core.xml
+E:\MyProject\PalmSens-SDK-for-WinForms-5.9 (1)\PalmSens SDK for WinForms 5.9\PSLibraries\PalmSens.Core.Simplified\obj\Release\netstandard2.0\PalmSens.Core.Simplified.csproj.AssemblyReference.cache
+E:\MyProject\PalmSens-SDK-for-WinForms-5.9 (1)\PalmSens SDK for WinForms 5.9\PSLibraries\PalmSens.Core.Simplified\obj\Release\netstandard2.0\PalmSens.Core.Simplified.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyProject\PalmSens-SDK-for-WinForms-5.9 (1)\PalmSens SDK for WinForms 5.9\PSLibraries\PalmSens.Core.Simplified\obj\Release\netstandard2.0\PalmSens.Core.Simplified.csproj.CoreCompileInputs.cache
+E:\MyProject\PalmSens-SDK-for-WinForms-5.9 (1)\PalmSens SDK for WinForms 5.9\PSLibraries\PalmSens.Core.Simplified\obj\Release\netstandard2.0\PalmSens.Core.Simplified.csproj.CopyComplete
+E:\MyProject\PalmSens-SDK-for-WinForms-5.9 (1)\PalmSens SDK for WinForms 5.9\PSLibraries\PalmSens.Core.Simplified\obj\Release\netstandard2.0\PalmSens.Core.Simplified.dll
+E:\MyProject\PalmSens-SDK-for-WinForms-5.9 (1)\PalmSens SDK for WinForms 5.9\PSLibraries\PalmSens.Core.Simplified\obj\Release\netstandard2.0\PalmSens.Core.Simplified.pdb
